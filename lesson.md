@@ -119,6 +119,7 @@ Let's add some tests to check the column types in `fact_sales`:
 --- 
 
 ## Extra - Hands-on with Orchestration I
+If you have not, create the conda environment based on the `dagster_environment.yml` file in the [environment](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/tree/main/environments) folder. 
 
 We will be using the `dagster` environment. Use the command `conda activate dagster` to activate the environment.
 
